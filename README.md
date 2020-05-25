@@ -3,4 +3,7 @@
 ###Created using ReactJS and Express
 
 Check out the Youtube video of the website:
-[![NewsWebsite Youtube video]("/readme-images/business_section_news.png")](https://youtu.be/q_OXCxvKvdU "Video Title")
+<a href="https://youtu.be/q_OXCxvKvdU" >
+<img src = "/readme-images/youtubeScreenCapture.png" alt="NewsWebsite Youtube video"/>
+</a>
+
