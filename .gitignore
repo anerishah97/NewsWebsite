@@ -27,4 +27,4 @@ yarn-error.log*
 /Express-backend/.env
 
 #backend_node_modules
-/Express=backedn/node_modules
+/Express-backend/node_modules
