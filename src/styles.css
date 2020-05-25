@@ -1,0 +1,91 @@
+.newsCard{
+    cursor: pointer;
+}
+
+.paddingLeftToZero{
+    padding-left: 0%;
+}
+#searchSelect{    
+    color: black;
+}
+
+#gradient-color{
+    background-image: linear-gradient(to right, #142443, #3B61B3);
+    color: white;
+}
+.loadingClass{
+    margin-top: 18%;
+    margin-left: 48.5%;
+
+}
+.sectionAndSources{
+    display:flex;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+
+.deleteFavCardDiv{
+    display: inline;
+}
+
+
+.shareButtonRow{
+    justify-content: space-around;
+    display: flex;
+}
+
+.spanSectionNewsCard{
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 4px;
+}
+
+.detailedArticleViewTitle{
+    font-style: italic;
+    font-size: xx-large;
+
+}
+.detailedArticleViewDate{
+    font-style: italic;
+}
+
+.detailedArticleViewRowTwo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.expandMore{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.toastBody{
+    color: black;
+}
+@media screen and (max-width: 996px){
+    #searchSelect{
+        width: 80%;
+        padding: 0%;        
+        float: left;
+    }
+    .theEntireLoadingClass{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 340px){
+    #searchSelect{
+        width: 70%;
+        padding: 0%;        
+        float: left;
+    }
+}
