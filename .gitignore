@@ -25,3 +25,6 @@ yarn-error.log*
 
 #backend-keys
 /Express-backend/.env
+
+#backend_node_modules
+/Express=backedn/node_modules
